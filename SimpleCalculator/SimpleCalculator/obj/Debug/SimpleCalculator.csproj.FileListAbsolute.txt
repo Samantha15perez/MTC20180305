@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
